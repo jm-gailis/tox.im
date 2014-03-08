@@ -1,0 +1,65 @@
+{
+    "_author": "Jānis-Marks Gailis",
+    "_language": "Latviešu valoda",
+    "_ind": 0,
+
+    "lf_title": "Tox",
+
+    "nv_home": "Home",
+    "nv_about": "Par",
+    "nv_features": "Features",
+    "nv_contribute": "Contribute",
+    "nv_wiki": "Wiki",
+
+    "sect1_slogan": "Secure messaging for everyone",
+    "sect1_description": "With the rise of government monitoring programs, Tox is an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, Tox is totally free, and comes without advertising.",
+    "sect1_learnmore": "Learn more",
+    "sect1_download": "Lejupieladēt",
+    "sect1_nightly": "You can download Tox nightlies; be forewarned, they may be buggy!",
+    "download_nightly": "Nightlies",
+    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "download_distro": "Please choose your distribution",
+
+    "sect2_abouttox": "Par Tox",
+
+    "sect2_aboutbody": "Nowadays, every government seems to be interested in what we're saying online. Tox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.",
+
+
+    "sect3_coolfeatures": "Some cool features",
+
+    "sect3_messages": "Messages",
+    "sect3_messages_blurb": "At your fingertips.\n You're always in the loop with instant encrypted messaging.",
+
+    "sect3_voice": "Zvani",
+    "sect3_voice_blurb": "Stay in touch.\n Make free and secure Tox to Tox calls.",
+
+    "sect3_video": "Video",
+    "sect3_video_blurb": "Seeing is believing.\n Catch up face to face with a secure video call.",
+
+    "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
+
+    "sect4_principles": "Instant messaging, video conferencing, and more",
+
+    "sect4_security": "Drošiba",
+    "sect4_security_blurb": "Tox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.",
+
+    "sect4_easy": "Ease of Use",
+    "sect4_easy_blurb": "Unlike other secure messaging solutions, Tox does not require you to be a computer programmer to use it. Tox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.",
+
+    "sect4_freedom": "Briviba",
+    "sect4_freedom_blurb": "Tox is both free for you to use, and free for you to change. You are completely free to both use and modify Tox. Furthermore, <span class=\"text bold\">Tox will never harass you with ads, or require you to pay for features</span>.",
+
+    "sect6_freesoftware": "Briva Programmatura",
+    "sect6_developers": "We're cool folks from <span class=\"text normal\">all around the world</span>.",
+
+    "sect6_mailinglist_title": "Keep in the loop",
+    "sect6_mailinglist": "Subscribe to our mailing list for updates about Tox's progress.",
+    "sect6_email": "email address",
+
+    "sect6_needhelp": "Nepieciešama palidziba?",
+    "sect6_githubtoirc": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+    
+    "dev_links": "Developer Links",
+    "dev_blog": "Development blog",
+    "dev_docs": "Dokumentacija "
+}
